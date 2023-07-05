@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.content{
+  background-color: aqua;
+  margin: 20px;
+  padding: 20px;
+  width: 300px;
+  text-align: center;
+  border-radius: 30px;
+  box-sizing: border-box;
+  box-shadow: 20px 20px rgba(0, 0, 0, 0.123);
+  display: inline-block;
+  align: center;
+  border: 4px dotted red;
+}
+p{
+  padding: 10px;
+}
