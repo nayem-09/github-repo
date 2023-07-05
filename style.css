@@ -15,7 +15,40 @@
   display: inline-block;
   align: center;
   border: 4px dotted red;
+  box
 }
 p{
   padding: 10px;
+}
+.head{
+  background-color: brown;
+  height: 1oo0px;
+}
+.menu{
+  text-align: right;
+  position: relative;
+  margin-top: 15px important;
+  
+
+}
+ul{
+  margin-right: 10%;
+  margin-top: 1px;
+}
+li{
+  display: inline-block;
+  color: antiquewhite;
+  font-weight: 200;
+  margin: 5px;
+  margin-top: ;
+}
+.search[input]{
+padding: 5px;
+  
+}
+.mainh{
+  text-align: center;
+
+ padding: 50px;
+
 }
